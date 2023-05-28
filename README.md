@@ -2,6 +2,8 @@
 
 **我是「陈城南」，收集好用的ChatGPT浏览器扩展分享，欢迎大家补充~**
 
+See the English documentation [here](README_EN.md)
+
 现在ChatGPT有很多插件/应用产品，其中很大一部分都是需要付费的、或者有限的免费次数、或者需要`OPENAI API KEY`（约等于付费）。
 
 而对于OpenAI官方来说，其网页版的ChatGPT（3.5-turbo）其实是免费的，只有API接口或者GPT-4需要付费。因此，本文秉承将白嫖进行到底的原则，给大家分享一些基于网页版ChatGPT就能使用的 **ChatGPT 浏览器插件**，最大化增强ChatGPT的能力，以最低的价格（其实是免费），获取最大的使用效率和效果。
